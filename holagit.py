@@ -1,3 +1,5 @@
 print "Hola Git"
 
-print "Probando checkout..."
+<<<<<<< HEAD
+print "Probando branch..."
+>>>>>>> developmen
